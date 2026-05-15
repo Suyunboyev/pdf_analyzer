@@ -113,6 +113,7 @@ for:
 - Product extraction
 - Intelligent comparison
 - Smart analysis
+---
 
 ## Backend Setup
 
