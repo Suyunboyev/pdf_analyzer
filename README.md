@@ -204,6 +204,8 @@ streamlit run app.py
 ```
 
 Browser automatically open
+---
+
 
 ## AI Capabilities
 
