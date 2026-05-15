@@ -115,6 +115,14 @@ for:
 - Smart analysis
 ---
 
+# Clone and Run the Project
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/Suyunboyev/pdf_analyzer.git
+```
+
 ## Backend Setup
 
 ### 1. Navigate to backend
