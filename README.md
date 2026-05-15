@@ -90,6 +90,30 @@ An AI-based system that analyzes product prices from PDF invoices/contracts and 
 
 ---
 
+## 🔐 Environment Variables
+
+Create a `.env` file inside the `backend` folder and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+---
+
+## 🤖 Gemini Model
+
+This project uses:
+
+```bash
+gemini-2.5-flash
+```
+
+for:
+- PDF content understanding
+- Product extraction
+- Intelligent comparison
+- Smart analysis
+
 ## Backend Setup
 
 ### 1. Navigate to backend
