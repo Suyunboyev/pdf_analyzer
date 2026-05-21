@@ -90,7 +90,7 @@ An AI-based system that analyzes product prices from PDF invoices/contracts and 
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the `backend` folder and add your Gemini API key:
 
@@ -100,7 +100,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ---
 
-## 🤖 Gemini Model
+## Gemini Model
 
 This project uses:
 
